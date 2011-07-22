@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<ImageButton
+	android:id="@+id/spa"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/spain"
+	android:layout_gravity="center"
+	android:layout_marginTop="60dip"
+/>
+
+<TextView 
+	android:id="@+id/idiomaesp"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:text="@string/iesp"
+/>
+<ImageButton
+	android:id="@+id/cat"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/catalunya"
+	android:layout_gravity="center"
+/>
+<TextView 
+	android:id="@+id/idiomacat"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:text="@string/icat"
+/>
+<ImageButton
+	android:id="@+id/ger"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/alemania"
+	android:layout_gravity="center"
+/>
+<TextView 
+	android:id="@+id/idiomager"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:text="@string/iger"
+/>
+<ImageButton
+	android:id="@+id/ita"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/italy"
+	android:layout_gravity="center"
+/>
+<TextView 
+	android:id="@+id/idiomaita"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:text="@string/iita"
+/>
+<ImageButton
+	android:id="@+id/eng"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/inglaterra"
+	android:layout_gravity="center"
+/>
+<TextView 
+	android:id="@+id/idiomaeng"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:text="@string/ieng"
+/>
+<ImageButton
+	android:id="@+id/frc"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/francia"
+	android:layout_gravity="center"
+/>
+
+<TextView 
+	android:id="@+id/idiomafrc"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="center"
+	android:text="@string/ifrc"
+/>
+
+
+</LinearLayout>

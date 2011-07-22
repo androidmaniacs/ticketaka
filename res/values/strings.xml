@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TickettakaActivity!</string>
+    <string name="app_name">TickeTaka</string>
+    <string name="iesp">Español</string>
+    <string name="icat">Català</string>
+    <string name="iger">Deutsch</string>
+    <string name="iita">Italiano</string>
+    <string name="ieng">English</string>
+    <string name="ifrc">Française</string>
+   
+</resources>
